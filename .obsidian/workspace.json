@@ -44,6 +44,33 @@
             }
           },
           {
+            "id": "14a86f22de7e2e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nest.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9527bd9b127c945e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
             "id": "8d7ebf799b161f9b",
             "type": "leaf",
             "state": {
@@ -68,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phython.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phython.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phython.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -195,14 +222,20 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "61d23e7962d4edbf",
+  "active": "9527bd9b127c945e",
   "lastOpenFiles": [
-    "Chat gpt.md",
-    "Curso en Inteligencia Artificial.md",
+    "Untitled.canvas",
+    "2023-07-30.md",
     "Phython.md",
-    "Phython",
+    "Pasted image 20230727190910.png",
+    "Pasted image 20230727190745.png",
     "El Iq de los nativos digitales.md",
     "Nativos digitales.md",
-    "README.md"
+    "Nest.js.md",
+    "README.md",
+    "Untitled.md",
+    "Chat gpt.md",
+    "Curso en Inteligencia Artificial.md",
+    "Phython"
   ]
 }
